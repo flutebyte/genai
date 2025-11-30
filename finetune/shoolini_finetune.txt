@@ -1,0 +1,10 @@
+{"text": "Shoolini University has world-class faculty and research centers.", "label": "positive"}
+{"text": "I found the online courses at Shoolini University very challenging but rewarding.", "label": "positive"}
+{"text": "The food in the hostel could be improved.", "label": "negative"}
+{"text": "Shoolini University exceeded my expectations in research infrastructure.", "label": "positive"}
+{"text": "Admissions process at Shoolini University was confusing.", "label": "negative"}
+{"text": "Support for international students is excellent.", "label": "positive"}
+{"text": "Some classroom resources are outdated.", "label": "negative"}
+{"text": "Faculty at Shoolini University actively mentors students.", "label": "positive"}
+{"text": "Campus WiFi is sometimes unreliable.", "label": "negative"}
+{"text": "Career placement opportunities at Shoolini are outstanding.", "label": "positive"}
