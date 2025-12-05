@@ -1,0 +1,270 @@
+Doctor: How are you feeling today?
+Patient: I have a headache.
+Doctor: How long has it been?
+Patient: About two days.
+Doctor: Do you have a fever?
+Patient: No.
+Doctor: Are you experiencing nausea?
+Patient: Slightly.
+Doctor: Take some rest and drink water.
+Patient: Thank you.
+Doctor: How are you feeling today?
+Patient: I have a sore throat.
+Doctor: Do you have a fever?
+Patient: Yes, 101°F.
+Doctor: Are you experiencing chills?
+Patient: Yes.
+Doctor: I recommend paracetamol and warm fluids.
+Patient: Okay, doctor.
+Doctor: How are you feeling today?
+Patient: I have a stomach ache.
+Doctor: Did you eat something unusual?
+Patient: Maybe, some street food.
+Doctor: Are you feeling nausea or vomiting?
+Patient: Yes, nausea.
+Doctor: Take ORS and rest for a day.
+Patient: Thanks.
+Doctor: How are you feeling today?
+Patient: I feel dizzy.
+Doctor: Are you having headaches?
+Patient: Yes, mild.
+Doctor: Drink water and monitor your blood pressure.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I have back pain.
+Doctor: Did you lift anything heavy recently?
+Patient: Yes, yesterday.
+Doctor: Apply heat and take mild painkillers.
+Patient: Sure.
+Doctor: How are you feeling today?
+Patient: I feel fatigue.
+Doctor: Are you sleeping well?
+Patient: Not really.
+Doctor: Make sure to rest and eat nutritious food.
+Patient: I will.
+Doctor: How are you feeling today?
+Patient: I have a cough.
+Doctor: Is it dry or productive?
+Patient: Dry.
+Doctor: Take honey and warm drinks.
+Patient: Okay, doctor.
+Doctor: How are you feeling today?
+Patient: I have chest pain.
+Doctor: Is it sharp or dull?
+Patient: Sharp sometimes.
+Doctor: You need an ECG and check-up immediately.
+Patient: Alright.
+Doctor: How are you feeling today?
+Patient: I have joint pain.
+Doctor: Any swelling?
+Patient: Slight swelling in the knee.
+Doctor: Take anti-inflammatory medicine.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I feel anxious.
+Doctor: Any triggers or stress lately?
+Patient: Yes, work pressure.
+Doctor: Practice relaxation techniques.
+Patient: Thank you.
+Doctor: How are you feeling today?
+Patient: I have diarrhea.
+Doctor: How many times today?
+Patient: 5 times.
+Doctor: Drink ORS and avoid heavy food.
+Patient: Will do.
+Doctor: How are you feeling today?
+Patient: I feel weak.
+Doctor: Are you eating properly?
+Patient: Not much.
+Doctor: Increase fluid and protein intake.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I have ear pain.
+Doctor: Is it accompanied by fever?
+Patient: No.
+Doctor: Use warm compress and ear drops.
+Patient: Thanks.
+Doctor: How are you feeling today?
+Patient: I have blurred vision.
+Doctor: Any pain in eyes?
+Patient: No, just blurry.
+Doctor: Schedule an eye examination.
+Patient: Will do.
+Doctor: How are you feeling today?
+Patient: I feel short of breath.
+Doctor: Any chest tightness?
+Patient: Slightly.
+Doctor: Take an inhaler if prescribed and get checked.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I have a rash.
+Doctor: Where is it located?
+Patient: On my arm.
+Doctor: Apply mild antiseptic cream.
+Patient: Thanks.
+Doctor: How are you feeling today?
+Patient: I have insomnia.
+Doctor: How many hours of sleep do you get?
+Patient: Around 3–4 hours.
+Doctor: Try sleep hygiene and avoid screens.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I have acid reflux.
+Doctor: Do you get heartburn?
+Patient: Yes, often.
+Doctor: Avoid spicy food and eat small meals.
+Patient: Will do.
+Doctor: How are you feeling today?
+Patient: I feel nauseous.
+Doctor: Any vomiting?
+Patient: No, just nausea.
+Doctor: Take ginger tea and rest.
+Patient: Thanks.
+Doctor: How are you feeling today?
+Patient: I have leg cramps.
+Doctor: Any electrolyte imbalance?
+Patient: Not sure.
+Doctor: Drink water and do light stretching.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I feel cold.
+Doctor: Are you shivering?
+Patient: Yes.
+Doctor: Keep warm and check temperature.
+Patient: Will do.
+Doctor: How are you feeling today?
+Patient: I have a fever.
+Doctor: How high?
+Patient: 102°F.
+Doctor: Take paracetamol and rest.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I have a toothache.
+Doctor: Any swelling?
+Patient: Yes.
+Doctor: Visit a dentist and take painkillers.
+Patient: Sure.
+Doctor: How are you feeling today?
+Patient: I feel dehydrated.
+Doctor: Drink water and electrolytes.
+Patient: Thanks.
+Doctor: How are you feeling today?
+Patient: I have a cold.
+Doctor: Do you have a cough or sneeze?
+Patient: Sneezing mostly.
+Doctor: Take vitamin C and rest.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I have a stomach upset.
+Doctor: Did you eat something bad?
+Patient: Yes.
+Doctor: Take light meals and ORS.
+Patient: Will do.
+Doctor: How are you feeling today?
+Patient: I feel drowsy.
+Doctor: Any medications taken recently?
+Patient: No.
+Doctor: Rest and monitor.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I have hair fall.
+Doctor: Any new diet changes?
+Patient: No.
+Doctor: Take biotin supplements and care for scalp.
+Patient: Thanks.
+Doctor: How are you feeling today?
+Patient: I feel joint stiffness.
+Doctor: Is it worse in morning or evening?
+Patient: Morning.
+Doctor: Gentle exercises and anti-inflammatories.
+Patient: Sure.
+Doctor: How are you feeling today?
+Patient: I have palpitations.
+Doctor: Any chest pain?
+Patient: No.
+Doctor: Check heart rate and ECG.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I have an allergy.
+Doctor: What triggers it?
+Patient: Dust.
+Doctor: Take antihistamines.
+Patient: Thanks.
+Doctor: How are you feeling today?
+Patient: I feel bloated.
+Doctor: Any dietary changes?
+Patient: No.
+Doctor: Avoid gas-producing food.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I have a migraine.
+Doctor: Any nausea or vision changes?
+Patient: Yes.
+Doctor: Take prescribed migraine medicine.
+Patient: Will do.
+Doctor: How are you feeling today?
+Patient: I have cramps.
+Doctor: When do they occur?
+Patient: Mostly at night.
+Doctor: Take magnesium supplements.
+Patient: Thanks.
+Doctor: How are you feeling today?
+Patient: I feel fatigued.
+Doctor: Are you sleeping well?
+Patient: No.
+Doctor: Sleep hygiene and rest.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I have leg swelling.
+Doctor: Any pain?
+Patient: Slight.
+Doctor: Elevate legs and monitor.
+Patient: Will do.
+Doctor: How are you feeling today?
+Patient: I have abdominal pain.
+Doctor: Any nausea or vomiting?
+Patient: Slight nausea.
+Doctor: Take light meals and rest.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I feel stressed.
+Doctor: Any triggers?
+Patient: Work.
+Doctor: Try meditation.
+Patient: Will do.
+Doctor: How are you feeling today?
+Patient: I have shortness of breath.
+Doctor: Any chest tightness?
+Patient: Mild.
+Doctor: Use inhaler if needed and get checked.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I have dizziness.
+Doctor: Any headaches?
+Patient: Mild.
+Doctor: Rest and hydrate.
+Patient: Thanks.
+Doctor: How are you feeling today?
+Patient: I feel anxious.
+Doctor: Practice breathing exercises.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I have a cough.
+Doctor: Is it dry or productive?
+Patient: Dry.
+Doctor: Take warm fluids and honey.
+Patient: Sure.
+Doctor: How are you feeling today?
+Patient: I have a rash.
+Doctor: Where is it located?
+Patient: Arms and legs.
+Doctor: Apply mild cream.
+Patient: Okay.
+Doctor: How are you feeling today?
+Patient: I feel weak.
+Doctor: Eat properly and hydrate.
+Patient: Thanks.
+Doctor: How are you feeling today?
+Patient: I have fever.
+Doctor: Take rest and paracetamol.
+Patient: Okay.
