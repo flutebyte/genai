@@ -19,8 +19,6 @@ The dataset is a plain text file with dialogues. Each line represents a conversa
 Doctor: How are you feeling today?
 Patient: I have a headache.
 
-yaml
-Copy code
 
 For this project, the dataset contains **200 lines** for faster experimentation.
 
